@@ -12,13 +12,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Generate snake
-        uses: Platane/snk@v2
-        id: snake
+      - name: Generate snake game from contribution grid
+        uses: github-contribution-grid-snake-game@v1.0.0
         with:
-          github_user_name: FadhlanFSJ
-          output_dir: .github/output
-          svg_out_path: github-contribution-grid-snake.svg
+          github_username: FadhlanFSJ
+          output_file: .github/output/github-contribution-grid-snake.svg
       - name: Commit snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
