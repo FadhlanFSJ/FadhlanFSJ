@@ -21,7 +21,6 @@ I'm **Fadhlan Syahran Jungjungan, S. Kom** — a creative yet detail-oriented So
    Full-stack blog application built as a final project for framework-based programming course.
 
 ![snake gif](https://github.com/fadhlanfsj/fadhlanfsj/blob/output/github-snake-dark.svg)
-*(Generated via GitHub Actions workflow to visualize contribution history dynamically)*
 
 ### 📫 Connect With Me
 [GitHub Profile](https://github.com/FadhlanFSJ)
