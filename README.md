@@ -20,12 +20,7 @@ I'm **Fadhlan Syahran Jungjungan, S. Kom** — a creative yet detail-oriented So
 3. **blog-app** — [GitHub Link](https://github.com/FadhlanFSJ/blog-app)
    Full-stack blog application built as a final project for framework-based programming course.
 
-### 📊 GitHub Stats
-[![Fadhlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadhlanFSJ&show_icons=true&theme=radical)](https://github.com/FadhlanFSJ)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhlanFSJ&layout=compact&theme=radical)](https://github.com/FadhlanFSJ)
-
-### 🐍 Contribution Snake Animation
-[![Contribution Snake](https://github.com/FadhlanFSJ/FadhlanFSJ/blob/output/github-contribution-grid-snake.svg)](https://github.com/FadhlanFSJ)
+![snake gif](https://github.com/fadhlanfsj/fadhlanfsj/blob/output/github-snake-dark.svg)
 *(Generated via GitHub Actions workflow to visualize contribution history dynamically)*
 
 ### 📫 Connect With Me
